@@ -1,9 +1,9 @@
 # 🛰️ Muhammad Djaky Hafiz Aris Saputra
 
+**`Computer Engineering Student @ Universitas Brawijaya (Class of 2023)`**  
 **`IoT Engineer / Embedded Systems Developer / Edge-AI Enthusiast`**
 
-I’m a Computer Engineering student from the Department of Computer Engineering, Universitas Brawijaya (UB), Class of 2023.  
-I specialize in IoT, embedded systems, and edge computing—building ESP32-based subsystems, real-time sensing pipelines, and data workflows using Python, SQL, Redis, and PostgreSQL.  I focus on integrating AI/ML models—such as MobileNet and YOLO—into embedded devices, enabling intelligent behavior directly at the edge.  My work combines hardware engineering, backend services, and monitoring dashboards to deliver efficient and production-ready IoT solutions.
+I’m a Computer Engineering student from the Department of Computer Engineering, Universitas Brawijaya (UB), Class of 2023. I specialize in IoT, embedded systems, and edge computing—building ESP32-based subsystems, real-time sensing pipelines, and data workflows using Python, SQL, Redis, and PostgreSQL.  I focus on integrating AI/ML models—such as MobileNet and YOLO—into embedded devices, enabling intelligent behavior directly at the edge.  My work combines hardware engineering, backend services, and monitoring dashboards to deliver efficient and production-ready IoT solutions.
 
 <p align="left">
    <a href="https://github.com/djakyharis?tab=followers">
@@ -13,7 +13,7 @@ I specialize in IoT, embedded systems, and edge computing—building ESP32-based
    <a href="https://linkedin.com/in/djakyharis">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=person&logoColor=white"/></a>
    <a href="mailto:djakyharis@gmail.com">
-      <img alt="djakyharis@gmail.com" title="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/></a>
+      <img alt="Email" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/></a>
 </p>
 
 ---
