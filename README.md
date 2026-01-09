@@ -13,7 +13,7 @@ I specialize in IoT, embedded systems, and edge computing—building ESP32-based
    <a href="https://linkedin.com/in/djakyharis">
       <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=person&logoColor=white"/></a>
    <a href="mailto:djakyharis@gmail.com">
-      <img alt="Email" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/></a>
+      <img alt="Email" title="djakyharis@gmail.com" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/></a>
 </p>
 
 ---
