@@ -3,7 +3,7 @@
 **`Computer Engineering Student @ Universitas Brawijaya (Class of 2023)`**  
 **`IoT Engineer | Embedded Systems Developer | AI/ML Enthusiast`**
 
-Computer Engineering student from UB'23. I'm intereseted in IoT, embedded systems, AI/ML engineering, and edge computing. My work combines mainly on hardware engineering and backend services (usually)
+Computer Engineering student from UB'23. I'm interested in IoT, embedded systems, AI/ML engineering, and edge computing. My work combines mainly on hardware engineering and backend services (usually)
 
 <p align="left">
    <a href="https://github.com/djakyharis?tab=followers">
