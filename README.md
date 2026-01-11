@@ -1,9 +1,9 @@
-# 🛰️ Muhammad Djaky Hafiz Aris Saputra
+# Djaky H Aris
 
 **`Computer Engineering Student @ Universitas Brawijaya (Class of 2023)`**  
-**`IoT Engineer / Embedded Systems Developer / Edge-AI Enthusiast`**
+**`IoT Engineer / Embedded Systems Developer / AI/ML Enthusiast`**
 
-I’m a Computer Engineering student from the Department of Computer Engineering, Universitas Brawijaya (UB), Class of 2023. I specialize in IoT, embedded systems, and edge computing—building ESP32-based subsystems, real-time sensing pipelines, and data workflows using Python, SQL, Redis, and PostgreSQL.  I focus on integrating AI/ML models—such as MobileNet and YOLO—into embedded devices, enabling intelligent behavior directly at the edge.  My work combines hardware engineering, backend services, and monitoring dashboards to deliver efficient and production-ready IoT solutions.
+Computer Engineering student from Universitas Brawijaya (UB), Class of 2023. I'm intereseted in IoT, embedded systems, AI/ML engineering, and edge computing. My work combines mainly on hardware engineering and backend services (usually)
 
 <p align="left">
    <a href="https://github.com/djakyharis?tab=followers">
