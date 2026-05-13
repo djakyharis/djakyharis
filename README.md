@@ -1,7 +1,5 @@
 # Djaky H Aris
 
-**`Tekkom'23`**  
-
 I'm interested in IoT, embedded systems, AI/ML, and edge computing. My work combines mainly on hardware engineering and backend services (usually)
 
 <p align="left">
