@@ -60,20 +60,3 @@ CE student with a focused interest in AI/ML, Embedded Systems, and low-level sys
 </table>
 
 ---
-
-  <p align="center">
-     <a href="https://github.com/djakyharis?tab=followers">
-        <img alt="followers" title="Follow me on GitHub" src="https://custom-icon-badges.demolab.com/github/followers/djakyharis?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/>
-     </a>
-     <a href="https://github.com/djakyharis">
-        <img alt="stars" title="Total Stars" src="https://custom-icon-badges.demolab.com/github/stars/djakyharis?color=55960c&style=for-the-badge&labelColor=488207&logo=star&logoColor=white"/>
-     </a>
-     <a href="https://linkedin.com/in/djakyharis">
-        <img alt="LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-blue?style=for-the-badge&logo=person&logoColor=white"/>
-     </a>
-     <a href="mailto:djakyharis@gmail.com">
-        <img alt="Email" title="Send Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logo=mail&logoColor=white"/>
-     </a>
-  </p>
-</div>
-
